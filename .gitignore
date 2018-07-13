@@ -4,3 +4,9 @@ node_modules/
 # Project
 build/
 dist/
+
+# Misc
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
