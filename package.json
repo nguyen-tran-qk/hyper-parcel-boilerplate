@@ -1,0 +1,22 @@
+{
+  "name": "hyper-parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate of Hyperapp with Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperapp",
+    "parcel",
+    "boilerplate"
+  ],
+  "author": "Nguyen Kevin Tran",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "hyperapp": "^1.2.6",
+    "parcel-bundler": "^1.9.6"
+  }
+}
